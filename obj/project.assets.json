@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Uporabnik\\Documents\\GitHub\\Vremenko\\Vremenko.csproj",
+      "projectUniqueName": "D:\\stuff\\Vremenko\\Vremenko.csproj",
       "projectName": "Vremenko",
-      "projectPath": "C:\\Users\\Uporabnik\\Documents\\GitHub\\Vremenko\\Vremenko.csproj",
+      "projectPath": "D:\\stuff\\Vremenko\\Vremenko.csproj",
       "packagesPath": "C:\\Users\\Uporabnik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Uporabnik\\Documents\\GitHub\\Vremenko\\obj\\",
+      "outputPath": "D:\\stuff\\Vremenko\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Uporabnik\\AppData\\Roaming\\NuGet\\NuGet.Config"
