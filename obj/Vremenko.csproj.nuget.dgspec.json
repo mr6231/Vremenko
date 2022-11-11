@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\stuff\\Vremenko\\Vremenko.csproj": {}
+    "C:\\Users\\Uporabnik\\Documents\\GitHub\\Vremenko\\Vremenko.csproj": {}
   },
   "projects": {
-    "D:\\stuff\\Vremenko\\Vremenko.csproj": {
+    "C:\\Users\\Uporabnik\\Documents\\GitHub\\Vremenko\\Vremenko.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\stuff\\Vremenko\\Vremenko.csproj",
+        "projectUniqueName": "C:\\Users\\Uporabnik\\Documents\\GitHub\\Vremenko\\Vremenko.csproj",
         "projectName": "Vremenko",
-        "projectPath": "D:\\stuff\\Vremenko\\Vremenko.csproj",
+        "projectPath": "C:\\Users\\Uporabnik\\Documents\\GitHub\\Vremenko\\Vremenko.csproj",
         "packagesPath": "C:\\Users\\Uporabnik\\.nuget\\packages\\",
-        "outputPath": "D:\\stuff\\Vremenko\\obj\\",
+        "outputPath": "C:\\Users\\Uporabnik\\Documents\\GitHub\\Vremenko\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Uporabnik\\AppData\\Roaming\\NuGet\\NuGet.Config"

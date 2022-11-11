@@ -12,6 +12,17 @@ public class HomeController : Controller
     {
         _logger = logger;
         //XMLtoEntity.Read("https://meteo.arso.gov.si/uploads/probase/www/observ/surface/text/sl/observationAms_si_latest.xml");
+        ZazeniAsync();
+    }
+
+    public static async void ZazeniAsync()
+    {
+        var timer = new PeriodicTimer(TimeSpan.FromSeconds(60));
+
+        while (await timer.WaitForNextTickAsync())
+        {
+            XMLtoEntity.Read("https://meteo.arso.gov.si/uploads/probase/www/observ/surface/text/sl/observationAms_si_latest.xml");
+        }
     }
 
     public IActionResult Index()
