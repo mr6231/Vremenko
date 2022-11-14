@@ -14,7 +14,7 @@ public class XMLtoEntity : Controller
         while (reader.Read())
         {
             // Do some work here on the data.
-            Console.WriteLine(reader.Name);
+            //Console.WriteLine(reader.Name);
         }
         Console.ReadLine();
     }
